@@ -12,9 +12,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?ameasere">「 Google Me 」</a>
+    <a href="https://ameasere.com">「 My Website 」</a>
     <br>
-    「 I am a backend Python developer from <b>London, UK!</b> 」
+    「 I am a backend developer from <b>London, UK!</b> 」
     <br>
     <br>
   </samp>
@@ -68,7 +68,8 @@
 
 ## Top Open Source -
 [![AvdanOS](https://github-readme-stats.vercel.app/api/pin/?username=Avdan-OS&repo=Desktop-Environment&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Avdan-OS/Desktop-Environment)
-[![HSMC](https://github-readme-stats.vercel.app/api/pin/?username=ameasere&repo=hsmc&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ameasere/hsmc)
+[![Polaris](https://github-readme-stats.vercel.app/api/pin/?username=ameasere&repo=polaris&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ameasere/polaris)
+[![Railguard](https://github-readme-stats.vercel.app/api/pin/?username=ameasere&repo=railguard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ameasere/railguard)
 [![EasyRSA](https://github-readme-stats.vercel.app/api/pin/?username=ameasere&repo=EasyRSA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ameasere/EasyRSA)
 [![Yubo 1FA](https://github-readme-stats.vercel.app/api/pin/?username=ameasere&repo=yubo1factor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ameasere/yubo1factor)
 
